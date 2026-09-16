@@ -539,6 +539,8 @@ nav ul li a{
 ```
 
 ## OUTPUT
+
+<img width="1525" height="702" alt="Screenshot 2026-09-16 105327" src="https://github.com/user-attachments/assets/33701a49-6949-48ae-8eaf-a44de2d7ebb1" />
 <img width="1510" height="692" alt="Screenshot 2026-09-16 105348" src="https://github.com/user-attachments/assets/5819f579-e978-4739-82ba-c5c6ca3ddb17" />
 <img width="1493" height="673" alt="Screenshot 2026-09-16 105404" src="https://github.com/user-attachments/assets/1ec48761-b8f0-4365-8620-492534be6ad5" />
 <img width="1511" height="611" alt="Screenshot 2026-09-16 105422" src="https://github.com/user-attachments/assets/1e6d69c0-c806-4ab8-af44-fae1dae469b4" />
